@@ -8,7 +8,7 @@
 <h3>Preview:</h3>
 
 <p align="center">
-  <img src="#" width="100%" title="hover text">
+  <img src="https://raw.githubusercontent.com/egitweb/ResponsivePortfolio/main/assets/ResponsivePortfolio-preview.png" width="100%" title="hover text">
 </p> 
 
 ### Installing
